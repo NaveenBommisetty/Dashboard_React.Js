@@ -1,5 +1,5 @@
 export type BRAND = {
-  description: ReactNode;
+  description: string;
   logo: string;
   name: string;
   visitors: number;
